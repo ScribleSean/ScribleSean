@@ -1,6 +1,16 @@
-### Hi there 👋
-
+<h1 align='center'>
+Hi there 👋 I'm Sean!
+</h1>
+<p1>
+  
+</p1>
+<p align='center'>
 [![wakatime](https://wakatime.com/badge/user/f96a4df8-f9ef-45bc-9bba-f4448539acb3.svg)](https://wakatime.com/@f96a4df8-f9ef-45bc-9bba-f4448539acb3)
+  <a href="https://www.linkedin.com/in/sarackal/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+</p>
+
 <!--
 **ScribleSean/ScribleSean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
