@@ -7,7 +7,7 @@ Hi there 👋 I'm Sean!
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://wakatime.com/@seanster">
-  <img src="https://wakatime.com/badge/user/f96a4df8-f9ef-45bc-9bba-f4448539acb3.svg)" />
+  <img src="https://wakatime.com/badge/user/f96a4df8-f9ef-45bc-9bba-f4448539acb3.svg" />
     </a>&nbsp;&nbsp;
 </p>
 
