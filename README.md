@@ -11,6 +11,11 @@ Hi there 👋 I'm Sean!
     </a>&nbsp;&nbsp;
 </p>
 
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=scriblesean&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
+
+
 <!--
 **ScribleSean/ScribleSean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
