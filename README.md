@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/f96a4df8-f9ef-45bc-9bba-f4448539acb3.svg)](https://wakatime.com/@f96a4df8-f9ef-45bc-9bba-f4448539acb3)
 <!--
 **ScribleSean/ScribleSean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
