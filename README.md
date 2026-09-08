@@ -1,28 +1,17 @@
-<h1 align='center'>
-Hi there 👋 I'm Sean!
-</h1>
+<table>
+<tr>
+<td width="55%">
+<img src="assets/gamecube.svg" width="460" alt="Indigo GameCube drawn in colored ASCII" />
+</td>
+<td>
+<h3><samp>sean@arackal</samp></h3>
+<p><samp>navigating ai<br />building as i go</samp></p>
+<br />
+<p><a href="https://github.com/ScribleSean?tab=repositories"><samp>projects</samp></a> · <a href="https://www.linkedin.com/in/sarackal/"><samp>linkedin</samp></a></p>
+</td>
+</tr>
+</table>
 
-<p align='center'>
-  <a href="https://www.linkedin.com/in/sarackal/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://wakatime.com/@seanster">
-  <img src="https://wakatime.com/badge/user/f96a4df8-f9ef-45bc-9bba-f4448539acb3.svg" />
-    </a>&nbsp;&nbsp;
-</p>
+<samp>$ memory-card --contributions</samp>
 
-
-<!--
-**ScribleSean/ScribleSean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="assets/memory-card.svg" width="900" alt="Contribution memory card: brighter purple blocks mark more active days" />
