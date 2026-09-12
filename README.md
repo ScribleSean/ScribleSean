@@ -5,7 +5,7 @@
 </td>
 <td>
 <h3><samp>sean@arackal</samp></h3>
-<p><samp>navigating ai<br />building as i go</samp></p>
+<p><samp>navigating ai<br />deep learning</samp></p>
 <br />
 <p><a href="https://scriblesean.github.io/portfolio/"><samp>portfolio</samp></a> · <a href="https://github.com/ScribleSean?tab=repositories"><samp>projects</samp></a> · <a href="https://www.linkedin.com/in/seanarackal/"><samp>linkedin</samp></a></p>
 </td>
