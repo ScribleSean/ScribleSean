@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="190" viewBox="0 0 900 190" role="img" aria-labelledby="title desc">
 <title id="title">Contribution memory card</title>
-<desc id="desc">101 active days and 1333 contributions, 2025-10-12 to 2026-10-13. Brighter purple means more contributions.</desc>
+<desc id="desc">102 active days and 1401 contributions, 2025-10-12 to 2026-10-14. Brighter purple means more contributions.</desc>
 <rect x="20" y="10" width="11" height="11" rx="1" fill="#292735"><title>2025-10-12: 0 contributions</title></rect>
 <rect x="20" y="27" width="11" height="11" rx="1" fill="#292735"><title>2025-10-13: 0 contributions</title></rect>
 <rect x="20" y="44" width="11" height="11" rx="1" fill="#292735"><title>2025-10-14: 0 contributions</title></rect>
@@ -367,7 +367,8 @@
 <rect x="836" y="112" width="11" height="11" rx="1" fill="#504069"><title>2026-10-10: 1 contributions</title></rect>
 <rect x="852" y="10" width="11" height="11" rx="1" fill="#504069"><title>2026-10-11: 26 contributions</title></rect>
 <rect x="852" y="27" width="11" height="11" rx="1" fill="#504069"><title>2026-10-12: 20 contributions</title></rect>
-<rect x="852" y="44" width="11" height="11" rx="1" fill="#504069"><title>2026-10-13: 11 contributions</title></rect>
-<text x="20" y="162" font-family="monospace" font-size="13" fill="#92869f">101 days saved / 1333 contributions</text>
+<rect x="852" y="44" width="11" height="11" rx="1" fill="#7855a4"><title>2026-10-13: 77 contributions</title></rect>
+<rect x="852" y="61" width="11" height="11" rx="1" fill="#504069"><title>2026-10-14: 2 contributions</title></rect>
+<text x="20" y="162" font-family="monospace" font-size="13" fill="#92869f">102 days saved / 1401 contributions</text>
 <rect x="857" y="151" width="8" height="12" fill="#b88cef"/>
 </svg>
