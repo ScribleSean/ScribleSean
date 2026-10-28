@@ -4,6 +4,7 @@ import os
 from pathlib import Path
 import sys
 import urllib.request
+import xml.etree.ElementTree as ET
 
 ROOT = Path(__file__).resolve().parents[1]
 QUERY = '''query($login: String!) {
@@ -29,11 +30,18 @@ def main():
             payload = json.load(response)
     if payload.get('errors'):
         raise RuntimeError('GitHub contribution query failed; README was not changed')
-    calendar = payload['data']['user']['contributionsCollection']['contributionCalendar']
+    user = (payload.get('data') or {}).get('user')
+    if not user:
+        raise RuntimeError('GitHub user not found; README was not changed')
+    calendar = user['contributionsCollection']['contributionCalendar']
     from render_memory import render as render_svg
+    svg = render_svg(calendar)
+    ET.fromstring(svg)  # refuse to save a card that isn't valid XML
     assets = ROOT / 'assets'
     assets.mkdir(exist_ok=True)
-    (assets / 'memory-card.svg').write_text(render_svg(calendar))
+    tmp = assets / 'memory-card.svg.tmp'
+    tmp.write_text(svg)
+    os.replace(tmp, assets / 'memory-card.svg')
 
 
 
