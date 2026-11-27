@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="190" viewBox="0 0 900 190" role="img" aria-labelledby="title desc">
 <title id="title">Contribution memory card</title>
-<desc id="desc">142 active days and 4862 contributions, 2025-11-23 to 2026-11-26. Brighter purple means more contributions.</desc>
+<desc id="desc">143 active days and 5001 contributions, 2025-11-23 to 2026-11-27. Brighter purple means more contributions.</desc>
 <rect x="20" y="10" width="11" height="11" rx="1" fill="#292735"><title>2025-11-23: 0 contributions</title></rect>
 <rect x="20" y="27" width="11" height="11" rx="1" fill="#292735"><title>2025-11-24: 0 contributions</title></rect>
 <rect x="20" y="44" width="11" height="11" rx="1" fill="#292735"><title>2025-11-25: 0 contributions</title></rect>
@@ -363,13 +363,14 @@
 <rect x="836" y="44" width="11" height="11" rx="1" fill="#7855a4"><title>2026-11-17: 63 contributions</title></rect>
 <rect x="836" y="61" width="11" height="11" rx="1" fill="#d1adff"><title>2026-11-18: 149 contributions</title></rect>
 <rect x="836" y="78" width="11" height="11" rx="1" fill="#504069"><title>2026-11-19: 14 contributions</title></rect>
-<rect x="836" y="95" width="11" height="11" rx="1" fill="#504069"><title>2026-11-20: 36 contributions</title></rect>
-<rect x="836" y="112" width="11" height="11" rx="1" fill="#504069"><title>2026-11-21: 22 contributions</title></rect>
+<rect x="836" y="95" width="11" height="11" rx="1" fill="#504069"><title>2026-11-20: 43 contributions</title></rect>
+<rect x="836" y="112" width="11" height="11" rx="1" fill="#504069"><title>2026-11-21: 24 contributions</title></rect>
 <rect x="852" y="10" width="11" height="11" rx="1" fill="#504069"><title>2026-11-22: 13 contributions</title></rect>
-<rect x="852" y="27" width="11" height="11" rx="1" fill="#504069"><title>2026-11-23: 10 contributions</title></rect>
+<rect x="852" y="27" width="11" height="11" rx="1" fill="#504069"><title>2026-11-23: 11 contributions</title></rect>
 <rect x="852" y="44" width="11" height="11" rx="1" fill="#504069"><title>2026-11-24: 27 contributions</title></rect>
 <rect x="852" y="61" width="11" height="11" rx="1" fill="#504069"><title>2026-11-25: 4 contributions</title></rect>
-<rect x="852" y="78" width="11" height="11" rx="1" fill="#504069"><title>2026-11-26: 10 contributions</title></rect>
-<text x="20" y="162" font-family="monospace" font-size="13" fill="#92869f">142 days saved / 4862 contributions</text>
+<rect x="852" y="78" width="11" height="11" rx="1" fill="#a777dc"><title>2026-11-26: 118 contributions</title></rect>
+<rect x="852" y="95" width="11" height="11" rx="1" fill="#504069"><title>2026-11-27: 21 contributions</title></rect>
+<text x="20" y="162" font-family="monospace" font-size="13" fill="#92869f">143 days saved / 5001 contributions</text>
 <rect x="857" y="151" width="8" height="12" fill="#b88cef"/>
 </svg>
